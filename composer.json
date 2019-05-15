@@ -1,5 +1,5 @@
 {
-    "name": "sabacon/testing",
+    "name": "sabacon/testing-oa",
     "description": "A SimpleSAMLphp module adding support for the OAuth2 protocol.",
     "type": "simplesamlphp-module",
     "keywords": [ "oauth2" ],
